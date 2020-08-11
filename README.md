@@ -25,7 +25,7 @@ _______   ____   __| _/\_ |__   ____ _____ _______  __| _/___________
              \/     \/      \/     \/     \/           \/    \/       
 
 ```
-![](Cool_Canadian_Hairless.jpg)
+![](http://img.cgmodel.com/image/2017/0520/big/465899-723184263.jpg)
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=redbearder)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=redbearder&hide=ipynb,html&layout=compact)
