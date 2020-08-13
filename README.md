@@ -1,6 +1,6 @@
-<!--### Hi there 👋
+### Hi there 👋
 
-
+<!--
 **redbearder/redbearder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ```
 
                    .______.                           .___            
@@ -26,10 +27,12 @@ _______   ____   __| _/\_ |__   ____ _____ _______  __| _/___________
 
 ```
 ![](http://img.cgmodel.com/image/2017/0520/big/465899-723184263.jpg)
+-->
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=redbearder)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=redbearder&hide=ipynb,html&layout=compact)
 
+<!--
 ```
 #######################################################
 #                                                     #
@@ -57,3 +60,4 @@ _______   ____   __| _/\_ |__   ____ _____ _______  __| _/___________
 #                                                     #
 #######################################################
 ```
+-->
